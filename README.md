@@ -1,0 +1,1 @@
+# LSE Stock Symbols
