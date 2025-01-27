@@ -4,3 +4,5 @@ JSON, txt & CSV lists of securities listed on the London Stock Exchange (Main Ma
 ## stock_profile_data.csv
 
 Contains company/stock profile descriptions for LSE, NYSE, NASDAQ & Tokyo Stock Exchange.
+
+View SOURCES.xlsx for a list of all sources to original data
